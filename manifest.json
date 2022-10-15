@@ -19,7 +19,7 @@
         {
             "src": "img/MBSS_logo_white_curve_maskable.png", 
             "sizes": "321x321", 
-            "type": "image/png"
+            "type": "image/png",
             "purpose": "maskable"
         }
     ]
