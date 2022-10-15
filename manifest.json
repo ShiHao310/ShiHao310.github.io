@@ -1,9 +1,9 @@
 {
-    "name": "Site1 PWA", 
-    "short_name": "Site1", 
+    "name": "Malaysia Bonsai & Suiseki Society", 
+    "short_name": "MBSS", 
     "start_url": "https://www.malaysiabonsaisuiseki.com/", 
-    "background_color": "#6DCDB1", 
-    "theme_color": "#0094FF", 
+    "background_color": "#008043", 
+    "theme_color": "#008043", 
     "display": "standalone", 
     "icons": [
         {
