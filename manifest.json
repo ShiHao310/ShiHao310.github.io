@@ -1,7 +1,7 @@
 {
     "name": "Site1 PWA", 
     "short_name": "Site1", 
-    "start_url": ".", 
+    "start_url": "https://www.malaysiabonsaisuiseki.com/", 
     "background_color": "#6DCDB1", 
     "theme_color": "#0094FF", 
     "display": "standalone", 
